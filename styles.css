@@ -1,0 +1,32 @@
+.image-tag{
+    width: 200px;
+    height: auto;
+}
+
+
+.card{
+background-color: rgb(230, 236, 236);
+padding: 20px;
+display: flex;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+width: 600px;
+text-align: center;
+border-bottom: solid 5px pink ;
+border-radius: 20px;
+}
+
+body{
+    background-color: white;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.names{
+    margin: 30px;
+    font-size: small;
+    color: black;
+    
+}
+
